@@ -1,4 +1,4 @@
-# python-pygame-menu
+# Menú Pygame
 Menú para juegos en python-pygame, posee múltiples opciones para añadir comandos que guarden configuraciones, muestren sliders y muestren texto formateado de forma rápida y cómoda.
 
 <p align="center">
